@@ -1,3 +1,1 @@
-# fantabulas
-student of cse 
-I like python
+# EDA for Data Science
